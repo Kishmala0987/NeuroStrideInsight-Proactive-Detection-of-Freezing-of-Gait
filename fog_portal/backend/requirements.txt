@@ -1,0 +1,13 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+torch==2.2.2
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+reportlab==4.1.0
+Pillow==10.3.0
+python-dotenv==1.0.1
